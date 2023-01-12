@@ -29,7 +29,7 @@ Page {
                         anchors.horizontalCenter: parent.horizontalCenter
                         height: Theme.itemSizeMedium
                         font.pixelSize: Theme.fontSizeLarge
-                        text: "Region codes 1.3"
+                        text: "Region codes 1.4"
                     }
                     SectionHeader {text: 'Описание'}
                     Label {
@@ -62,7 +62,7 @@ Page {
                         horizontalAlignment: Text.AlignHCenter
                         anchors.horizontalCenter: parent.horizontalCenter
                         font.pixelSize: Theme.fontSizeExtraSmall
-                        text: "<2018>"
+                        text: "<2018-2022>"
                         width: parent.width
                     }
                 }

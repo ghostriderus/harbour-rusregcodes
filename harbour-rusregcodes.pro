@@ -15,6 +15,7 @@ TARGET = harbour-rusregcodes
 CONFIG += sailfishapp_qml
 
 DISTFILES += qml/harbour-rusregcodes.qml \
+    icons/172x172/harbour-rusregcodes.png \
     qml/cover/CoverPage.qml \
     qml/pages/FirstPage.qml \
     qml/pages/About.qml \

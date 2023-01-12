@@ -8,7 +8,7 @@ ListModel {
     }
     ListElement {
         title: "Республика Башкортостан"
-        description: "02,102"
+        description: "(1,7)02"
     }
     ListElement {
         title: "Республика Бурятия"
@@ -64,7 +64,7 @@ ListModel {
     }
     ListElement {
         title: "Республика Татарстан"
-        description: "16,116,716"
+        description: "(1,7)16"
     }
     ListElement {
         title: "Республика Тыва"
@@ -92,7 +92,7 @@ ListModel {
     }
     ListElement {
         title: "Краснодарский край"
-        description: "23,93,123"
+        description: "(1)23,(1)93"
     }
     ListElement {
         title: "Красноярский край"
@@ -100,7 +100,7 @@ ListModel {
     }
     ListElement {
         title: "Приморский край"
-        description: "25,125"
+        description: "(1,7)25"
     }
     ListElement {
         title: "Ставропольский край"
@@ -188,7 +188,7 @@ ListModel {
     }
     ListElement {
         title: "Ленинградская область"
-        description: "47"
+        description: "47,147"
     }
     ListElement {
         title: "Липецкая область"
@@ -200,7 +200,7 @@ ListModel {
     }
     ListElement {
         title: "Московская обл."
-        description: "(1)50,(1)90,750"
+        description: "(1,7)50,(1,7)90"
     }
     ListElement {
         title: "Мурманская область"
@@ -225,7 +225,7 @@ ListModel {
     }
     ListElement {
         title: "Оренбургская область"
-        description: "56"
+        description: "56,156"
     }
     ListElement {
         title: "Орловская область"
@@ -245,7 +245,7 @@ ListModel {
     }
     ListElement {
         title: "Ростовская область"
-        description: "61,161"
+        description: "61,161,761"
     }
     ListElement {
         title: "Рязанская область"
@@ -289,7 +289,7 @@ ListModel {
     }
     ListElement {
         title: "Тюменская область"
-        description: "72"
+        description: "72,172"
     }
     ListElement {
         title: "Ульяновская область"
@@ -297,7 +297,7 @@ ListModel {
     }
     ListElement {
         title: "Челябинская область"
-        description: "74,174"
+        description: "(1,7)74"
     }
     ListElement {
         title: "Забайкальский край"
@@ -309,11 +309,19 @@ ListModel {
     }
     ListElement {
         title: "г. Москва"
-        description: "(1,7)77,(1)97,(1,7)99"
+        description: "77,177,277,777"
+    }
+    ListElement {
+        title: "г. Москва"
+        description: "97,197,797"
+    }
+    ListElement {
+        title: "г. Москва"
+        description: "99,199,299,799"
     }
     ListElement {
         title: "г. Санкт-Петербург"
-        description: "78,98,178,198"
+        description: "(1)78,(1)98"
     }
     ListElement {
         title: "Еврейская автономная область"
